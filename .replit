@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 string_formatting.py"
+run = "python3 user_input.py"
